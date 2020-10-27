@@ -892,11 +892,11 @@ footer .links {
   font-size: 13px;
   height: 30px;
   line-height: 30px;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 footer .links a {
-  margin-right: 15px;
+  margin-right: 5px;
   text-decoration: none;
   color: #999;
 }
